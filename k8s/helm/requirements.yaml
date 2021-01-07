@@ -1,0 +1,4 @@
+dependencies:
+  - name: mysql
+    version: 5.x.x, 8.x.x
+    repository: https://charts.bitnami.com/bitnami
